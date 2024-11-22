@@ -14,3 +14,4 @@
     npm run dev //rodar na pasta backend
     npx expo start
 
+"# mobile" 
