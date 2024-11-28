@@ -17,7 +17,7 @@
 <h3>Galeria de Capturas de Tela</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/06b9b7f8-d820-45c4-bf89-4685658aebc1" alt="Screenshot 1" width="200"/>
+  <img src="https://github.com/user-attachments/assets/80bade43-dc26-4e87-b98c-5a9a2fb6dccf" alt="Screenshot 1" width="200"/>
   <img src="https://github.com/user-attachments/assets/5cc2c516-868d-4d07-ba3c-a0914261686b" alt="Screenshot 2" width="200"/>
   <img src="https://github.com/user-attachments/assets/9571909d-9824-4583-89df-bb215b34aaa1" alt="Screenshot 3" width="200"/>
 </p>
